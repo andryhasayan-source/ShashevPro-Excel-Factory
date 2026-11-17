@@ -1,0 +1,15 @@
+# Публичный репозиторий-витрина Excel Factory.
+# Строгий разрешительный список: любые новые файлы исключены по умолчанию.
+# ВАЖНО: .gitignore не препятствует намеренному git add -f и не удаляет историю.
+
+*
+!README.md
+!CHANGELOG.md
+!SUPPORT.md
+!COPYRIGHT.md
+!.gitignore
+!screenshots/
+screenshots/*
+!screenshots/01-glavnaya.png
+!screenshots/02-katalog-shablonov.png
+!screenshots/03-konstruktor-tablits.png
